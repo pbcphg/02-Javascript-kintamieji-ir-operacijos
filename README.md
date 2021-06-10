@@ -25,3 +25,6 @@ Papildoma:
 2. Sukeisti kinamųju reikšmes skaicius5 ir skaicius6 pasitelkiant XOR operatorių.
 
 3. Rezultatą patalpinti į HTML dokumento div žymėje, kurios id="Rezultatas".
+
+
+[Mokytojo teorija - https://github.com/motiejus1/02-paskaita-JS.git]
